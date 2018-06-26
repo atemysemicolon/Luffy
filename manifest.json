@@ -16,5 +16,5 @@
     "default_title": "Test Extension"
   },
 
-  "permissions": ["activeTab"]
+  "permissions": ["activeTab","tabs"]
 }
