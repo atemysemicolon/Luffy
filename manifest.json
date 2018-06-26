@@ -10,7 +10,7 @@
   },
   "content_scripts": [{
     "matches": ["*://*.google.com/*"],
-    "js": ["content.js"]
+    "js": ["jquery.min.js","content.js"]
   }],
   "browser_action": {
     "default_title": "Test Extension"
